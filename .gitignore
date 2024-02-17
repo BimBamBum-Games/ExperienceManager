@@ -79,3 +79,7 @@ ProjectSettings/
 
 # Ignore TutorialInfo folder under Assets
 Assets/TutorialInfo/
+
+Assets/Readme.asset
+Assets/Readme.asset.meta
+Assets/TutorialInfo.meta
