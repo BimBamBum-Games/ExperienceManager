@@ -74,12 +74,8 @@ crashlytics-build.properties
 # VS Config file
 *.vsconfig
 
-# Ignore Unity Project Settings folder and its contents
-ProjectSettings/
-
 # Ignore TutorialInfo folder under Assets
 Assets/TutorialInfo/
-
 Assets/Readme.asset
 Assets/Readme.asset.meta
 Assets/TutorialInfo.meta
