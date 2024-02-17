@@ -76,3 +76,6 @@ crashlytics-build.properties
 
 # Ignore Unity Project Settings folder and its contents
 ProjectSettings/
+
+# Ignore TutorialInfo folder under Assets
+Assets/TutorialInfo/
